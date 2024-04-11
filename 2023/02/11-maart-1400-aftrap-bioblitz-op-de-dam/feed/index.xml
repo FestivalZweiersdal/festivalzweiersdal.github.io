@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Reacties op: 11 maart 14.00 opening Festival Zweiersdal op de Dam	</title>
+	<atom:link href="/2023/02/11-maart-1400-aftrap-bioblitz-op-de-dam/feed/" rel="self" type="application/rss+xml" />
+	<link>/2023/02/11-maart-1400-aftrap-bioblitz-op-de-dam/</link>
+	<description></description>
+	<lastBuildDate>Thu, 09 Mar 2023 21:13:09 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+</channel>
+</rss>

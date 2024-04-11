@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Bijen &#8211; Festival Zweiersdal</title>
+	<atom:link href="/tag/bijen/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Thu, 01 Jun 2023 21:34:34 +0000</lastBuildDate>
+	<language>nl-NL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>https://i0.wp.com/festivalzweiersdal.nl/wp-content/uploads/2023/04/image.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>Bijen &#8211; Festival Zweiersdal</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">216218090</site>	<item>
+		<title>Nieuwsbericht telweek 11</title>
+		<link>/2023/06/nieuwsbericht-telweek-11/</link>
+					<comments>/2023/06/nieuwsbericht-telweek-11/#respond</comments>
+		
+		<dc:creator><![CDATA[Lèneke Pfeiffer]]></dc:creator>
+		<pubDate>Thu, 01 Jun 2023 21:30:32 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Bijen]]></category>
+		<category><![CDATA[bioblitz]]></category>
+		<category><![CDATA[biodiversiteit]]></category>
+		<category><![CDATA[obsidentify]]></category>
+		<category><![CDATA[Oosterbeek]]></category>
+		<guid isPermaLink="false">/?p=938</guid>
+
+					<description><![CDATA[Geweldig, de teller van de Bioblitz staat inmiddels op 1192 wat een mooi resultaat dat we samen al hebben neergezet. Natuurlijk gaat het niet alleen om tellen, ook buren leren kennen is een doel van ons Festival. Samen met enkele buren en geïnteresseerden van wat verder weg hebben we afgelopen zondag over andere buren - wilde bijen- geleerd en diezelfde buren begluurd, bekeken en gefotografeerd. ]]></description>
+		
+					<wfw:commentRss>/2023/06/nieuwsbericht-telweek-11/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">938</post-id>	</item>
+		<item>
+		<title>Nieuwsbericht telweek 3</title>
+		<link>/2023/04/nieuwsbericht-telweek-3/</link>
+		
+		<dc:creator><![CDATA[Lèneke Pfeiffer]]></dc:creator>
+		<pubDate>Sun, 02 Apr 2023 19:04:20 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Bijen]]></category>
+		<category><![CDATA[bioblitz]]></category>
+		<category><![CDATA[biodiversiteit]]></category>
+		<category><![CDATA[De Zomp]]></category>
+		<category><![CDATA[nieuwsberichten]]></category>
+		<category><![CDATA[Oosterbeek]]></category>
+		<guid isPermaLink="false">/?p=716</guid>
+
+					<description><![CDATA[Hallo vrienden, tellers, buurtgenoten,&#160; Gisteren, op 1 april,&#160; stond de teller op 500 soorten! Een mooi resultaat. Deze week zijn er veel korstmossen gespot bij het oude kerkje. Een &#8211; zo lijkt het &#8211; ervaren oog heeft daar vele soorten mossen in kaart gebracht.&#160; Mede door de natte wandeling in de Zomp, de eerste activiteit&#8230;&#160;<div class="read-more-wrapper"><a href="/2023/04/nieuwsbericht-telweek-3/" class="button button-primary" rel="bookmark">Lees verder &#187;<span class="screen-reader-text">Nieuwsbericht telweek 3</span></a></div>]]></description>
+		
+		
+		<enclosure url="/wp-content/uploads/2023/04/20230402-Bij-op-bijenhotel.mp4" length="1936698" type="video/mp4" />
+
+		<post-id xmlns="com-wordpress:feed-additions:1">716</post-id>	</item>
+	</channel>
+</rss>

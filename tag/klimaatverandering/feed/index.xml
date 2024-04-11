@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>klimaatverandering &#8211; Festival Zweiersdal</title>
+	<atom:link href="/tag/klimaatverandering/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 18 Mar 2023 16:05:49 +0000</lastBuildDate>
+	<language>nl-NL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>https://i0.wp.com/festivalzweiersdal.nl/wp-content/uploads/2023/04/image.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>klimaatverandering &#8211; Festival Zweiersdal</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">216218090</site>	<item>
+		<title>Podcast Biodiversiteit Zweiersdal</title>
+		<link>/2023/03/podcast-biodiversiteit-zweiersdal/</link>
+		
+		<dc:creator><![CDATA[Erik den Boer]]></dc:creator>
+		<pubDate>Sat, 18 Mar 2023 15:47:47 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[biodiversiteit]]></category>
+		<category><![CDATA[klimaatverandering]]></category>
+		<category><![CDATA[Oosterbeek]]></category>
+		<category><![CDATA[podcast]]></category>
+		<guid isPermaLink="false">/?p=555</guid>
+
+					<description><![CDATA[De Oosterbeker Sjoerd Arends maakte de podcastserie Klimaat in de straat over de gevolgen van klimaatverandering op de natuur in zijn dorp. Sjoerd woont zelf in het gebied van het Zweiersdal en maar liefst drie van de mensen die hij geïnterviewd heeft ook: Erik den Boer, Flip Witte en Maarten Veldhuis. De vierde is Jao&#8230;&#160;<div class="read-more-wrapper"><a href="/2023/03/podcast-biodiversiteit-zweiersdal/" class="button button-primary" rel="bookmark">Lees verder &#187;<span class="screen-reader-text">Podcast Biodiversiteit Zweiersdal</span></a></div>]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">555</post-id>	</item>
+	</channel>
+</rss>
